@@ -4,8 +4,5 @@ class math_mod {
         System.out.println(Math.min(5, 10));
         System.out.println(Math.sqrt(10));
         System.out.println(Math.random());
-
-
-
     }
 }
